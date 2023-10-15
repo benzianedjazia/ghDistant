@@ -15,7 +15,7 @@ public class HelloWorld {
 
         // Création de la fenêtre
         JFrame fenetre = new JFrame(title);
-        fenetre.setSize(new Dimension(800, 400));
+        fenetre.setSize(new Dimension(800, 800));
         fenetre.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         fenetre.getContentPane().setBackground(Color.cyan);
 
